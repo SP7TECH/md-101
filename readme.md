@@ -125,12 +125,16 @@ function add(num1, num2) {
 
 <!-- Table -->
 
+## Table
+
 | Name     | Email             |
 | -------- | ----------------- |
 | John Doe | johndoe@gmail.com |
 | John Doe | johndoe@gmail.com |
 
 <!-- Task List -->
+
+## Task List
 
 - [x] Task 1
 - [ ] Task 2
